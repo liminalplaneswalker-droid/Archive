@@ -1,0 +1,6 @@
+{
+  "appId": "com.fictionalarchive.app",
+  "appName": "The Fictional Archive",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
